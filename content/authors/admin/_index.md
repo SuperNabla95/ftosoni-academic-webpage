@@ -10,7 +10,7 @@ authors:
 superuser: true
 
 # Role/position
-role: MSc, Research Assistant
+role: M.Sc. in Computer Science
 
 # Organizations/Affiliations
 organizations:
@@ -44,7 +44,7 @@ social:
 #  link: '#contact'  # For a direct email link, use "mailto:test@example.org".
 - icon: envelope
   icon_pack: fa
-  link: 
+  link: mailto:f•tosoni δ studenti•unipi•it
 - icon: linkedin
   icon_pack: fab
   link: https://www.linkedin.com/in/francesco-tosoni
